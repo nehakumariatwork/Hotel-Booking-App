@@ -1,0 +1,30 @@
+
+/* #root {
+  width: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+}  */
+.Form{
+  border: solid black 2px;
+  box-shadow:  0 0 10px 10px lavender;
+  margin: 30px;
+  background-color: white;
+  max-width: 400px;
+  background-color: pink;
+  margin: auto;
+  top: 50%;
+
+}
+.text{
+  border: 1px solid black;
+  background-color: aliceblue;
+}
+
+.Button{
+  margin-left: 70%;
+  margin-bottom: 10px;
+}
+
+.Button{
+  margin-left: 70%;
+}
